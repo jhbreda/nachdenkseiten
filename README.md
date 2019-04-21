@@ -1,2 +1,5 @@
-# nachdenkseiten
-nachdenkseiten auf ubuntu touch
+# Nachdenkseiten
+
+Nachdenkseiten auf ubuntu-touch.
+
+
