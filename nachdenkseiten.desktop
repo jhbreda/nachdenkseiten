@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Nachdenkseiten
 Exec=webapp-container --webappUrlPatterns=https?://www.nachdenkseiten.de/* https://www.nachdenkseiten.de
-Icon=logo.svg
+Icon=logo.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
